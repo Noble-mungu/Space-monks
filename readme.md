@@ -3,10 +3,17 @@ The NASA Space Apps Challenge is an annual global hackathon that brings together
 
 ## Leveraging Earth Observation Data for Informed Agricultural Decision-Making
 
-### Problem Statement
-The problem statement is to develop a solution that leverages Earth observation data to support informed agricultural decision-making
+## Problem Statement
+* Insufficient Moisture - Crops may become stressed and experience stunted growth when soil moisture falls below a critical threshold, leading to reduced crop yields.
+
+* Excessive Moisture - Excessive soil moisture can also negatively impact plant health and productivity.
 
 What our team (Space monks) leveraged NASA SMAP(Soil Moisture Anaomaly Data) to visualize the soil moisture distribution in Africa.
+
+## What did we develop?
+[Data](https://svs.gsfc.nasa.gov/4590) found under the Agriculture and Water Management Data Pathfinder, served to influence our decision to come up with a smart Internet of Things (IoT) agricultural system with the capability of monitoring real-time soil moisture content levels across various soil types. Through the information collected, we aim to be able to map individual farmers’ lands profile to inform their agricultural decision making. For the prototype, we used Arduino Uno as the micro-controller, a soil moisture sensor capable of providing precise volumetric water content data and a solenoid valve. Based on the data collected from the soil moisture sensor, the system is able to automatically either turn on or turn off the sprinkler irrigation system, through the solenoid valve.
+
+https://github.com/user-attachments/assets/e2f1f629-6ecc-4b51-b9b7-70fd5ef8c2e6
 
 
 
