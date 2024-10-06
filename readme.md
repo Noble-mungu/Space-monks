@@ -24,4 +24,5 @@ https://github.com/user-attachments/assets/e2f1f629-6ecc-4b51-b9b7-70fd5ef8c2e6
 * C++
 * Solenoid valve
 * Soil moisture sensor
+* Africas Talking bulk sms
 
