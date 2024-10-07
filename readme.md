@@ -8,9 +8,12 @@ The NASA Space Apps Challenge is an annual global hackathon that brings together
 
 * Excessive Moisture - Excessive soil moisture can also negatively impact plant health and productivity.
 
-What our team (Space monks) leveraged NASA SMAP(Soil Moisture Anaomaly Data) to visualize the soil moisture distribution in Africa.
 
-![Screenshot 2024-10-07 233416](https://github.com/user-attachments/assets/718551c2-2c78-40c6-b74e-b76bfed61943)
+We leveraged NASA SMAP(Soil Moisture Anaomaly Data) to visualize the soil moisture distribution in Africa.
+
+![Screenshot 2024-10-07 234547](https://github.com/user-attachments/assets/478d5293-457b-4446-bfa4-ec7d6fed812a)
+
+
 
 
 ## Architecture
@@ -34,4 +37,18 @@ https://github.com/user-attachments/assets/e2f1f629-6ecc-4b51-b9b7-70fd5ef8c2e6
 * Solenoid valve
 * Soil moisture sensor
 * Africas Talking bulk sms
+
+## Credits
+NASA's Scientific Visualization Studio
+
+Visualizers
+Cheng Zhang (USRA)
+Horace Mitchell (NASA/GSFC)
+Lori Perkins (NASA/GSFC)
+Producer
+Matthew R. Radcliff (USRA)
+Scientist
+Christa Peters-Lidard (NASA/GSFC)
+
+
 
