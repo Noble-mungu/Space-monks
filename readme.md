@@ -10,6 +10,15 @@ The NASA Space Apps Challenge is an annual global hackathon that brings together
 
 What our team (Space monks) leveraged NASA SMAP(Soil Moisture Anaomaly Data) to visualize the soil moisture distribution in Africa.
 
+![Screenshot 2024-10-07 233416](https://github.com/user-attachments/assets/718551c2-2c78-40c6-b74e-b76bfed61943)
+
+
+## Architecture
+![Screenshot 2024-10-07 233226](https://github.com/user-attachments/assets/a7acd3dd-dec1-4da6-a06b-b44f3635d225)
+
+
+
+
 ## What did we develop?
 ## Enhancing Agricultural Productivity through Smart Soil Monitoring, Nutrient Management, and Automated Irrigation Systems
 
