@@ -33,6 +33,15 @@ We leveraged NASA SMAP(Soil Moisture Anaomaly Data) to visualize the soil moistu
 
 https://github.com/user-attachments/assets/e2f1f629-6ecc-4b51-b9b7-70fd5ef8c2e6
 
+## Impact
+* Proactive Irrigation Planning: Farmers can anticipate soil moisture changes and adjust their irrigation schedules accordingly, preventing water stress and ensuring optimal crop growth.
+* Water Conservation: By predicting future moisture levels, the model helps farmers use water more efficiently, reducing unnecessary irrigation and conserving water resources.
+* Water Conservation: By predicting future moisture levels, the model helps farmers use water more efficiently, reducing unnecessary irrigation and conserving water resources.
+* Mitigating Risks: The model enables farmers to prepare for potential droughts or floods, reducing the risk of crop failure and financial loss.
+* Mitigating Risks: The model enables farmers to prepare for potential droughts or floods, reducing the risk of crop failure and financial loss.
+
+
+
 
 
 ## Tools and technologies to develop our solution:
