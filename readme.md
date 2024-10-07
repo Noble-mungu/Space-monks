@@ -7,6 +7,10 @@ The NASA Space Apps Challenge is an annual global hackathon that brings together
 * Insufficient Moisture - Crops may become stressed and experience stunted growth when soil moisture falls below a critical threshold, leading to reduced crop yields.
 
 * Excessive Moisture - Excessive soil moisture can also negatively impact plant health and productivity.
+  
+
+## Slides
+https://docs.google.com/presentation/d/158G2vHYvt4SFnw_SNAi9-JHLI_iv7iPd/edit?usp=sharing&ouid=100132932824600047678&rtpof=true&sd=true
 
 
 We leveraged NASA SMAP(Soil Moisture Anaomaly Data) to visualize the soil moisture distribution in Africa.
