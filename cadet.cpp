@@ -9,8 +9,8 @@ const char* ssid = "YOUR_SSID";
 const char* password = "YOUR_PASSWORD"; 
 
 // Africa's Talking credentials
-static const char *apiKey = "atsk_2352fff8aea06468d8b3f491c029f1f2e7c2a2dab2121bedb7a13a68c26af05aa1bb83d4Y"; 
-static const char *username = "sandbox"; 
+static const char *apiKey = "<Africans Talking API>"; 
+static const char *username = "sandbox"; //username remains sandox in simulation environment
 
 AfricasTalking *AT;
 
